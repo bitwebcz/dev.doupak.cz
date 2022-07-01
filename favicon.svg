@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 75.68 74.72" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-643.44 -141.18)" fill="#b513eb" fill-rule="evenodd" stroke="#b513eb" stroke-width="1.3333">
+  <path d="m645.82 158.78l43.624 12.402 9.044-28.744z"/>
+  <path d="m691.68 171.82l8.64-28.48 17.051 48.075z"/>
+  <path d="m717.76 194.22l-27.36-20.48-24.267 40.883z"/>
+  <path d="m664.42 213.26l24.056-40.162-43.435-12.228z"/>
+ </g>
+ <text transform="matrix(-.055068 -.68548 .99677 -.08032 41.694 20.956)" fill="white" font-family="Arial" font-size="28" font-weight="400">8</text>
+ <text transform="matrix(-.57346 .36013 -.53305 -.84609 58.836 18.368)" fill="white" font-family="Arial" font-size="24" font-weight="400">5</text>
+ <text transform="matrix(.051241 .8142 -.99801 .06312 41.844 48.802)" fill="white" font-family="Arial" font-size="24" font-weight="400">3</text>
+ <text transform="matrix(.53099 -.33553 .54445 .83888 21.223 49.986)" fill="white" font-family="Arial" font-size="26" font-weight="400">2</text>
+</svg>
